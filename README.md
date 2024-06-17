@@ -14,7 +14,7 @@ WebAuthn is a browser API that empowers us all to secure our accounts with a use
 
 - [@simplewebauthn](https://simplewebauthn.dev/docs/)
 
-Here is a diagram that shows how the WebAuthn works in theory.
+Here is a diagram that shows how WebAuthn works in theory.
 
 <figure>
     <img src="frontend/public/webAuth1.png"
@@ -26,6 +26,6 @@ Here is a diagram that shows how the WebAuthn works in theory.
 <figure>
     <img src="frontend/public/webAuth1.png"
          alt="WebAuthn diagram" width="600">
-    <figcaption>WebAuth flow diagram 1. Image source: - <a href="https://firtman.github.io/authentication/slides.pdf">link</a>
+    <figcaption>WebAuth flow diagram 2. Image source: - <a href="https://firtman.github.io/authentication/slides.pdf">link</a>
  </figcaption>
 </figure>
