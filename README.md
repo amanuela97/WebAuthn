@@ -8,7 +8,7 @@
 
 # Overview
 
-This monorepo contains code that implements a classic login flow, federated Authentication with Google, and also incorporates an identifies-first flow using WebAuthn:
+This monorepo contains code that implements a classic login flow, federated Authentication with Google, and also incorporates an [**identifier-first flow**](https://developers.yubico.com/Developer_Program/WebAuthn_Starter_Kit/Identifier_First_Flow.html) using WebAuthn:
 
 WebAuthn is a browser API that empowers us all to secure our accounts with a user-friendly experience powered by public-key cryptography.
 
